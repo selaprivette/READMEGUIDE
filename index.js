@@ -80,6 +80,7 @@ const questions = () => {
         type: 'input',
         name: 'install',
         message: 'What are the steps required to install your project?',
+        default: "There are no installation steps for this project",
         validate: nameInput => {
             if (nameInput) {
                 return true;
@@ -106,12 +107,13 @@ const questions = () => {
         type: 'input',
         name: 'test', 
         message: 'What command should be run to run tests?',
-        default: 'npm test'
+        default: "There are no test instructions for this project",
     },
     {
         type: 'input',
         name: 'contributors',
-        message: 'What does the user need to know about contribution guidelines?'
+        message: 'What does the user need to know about contribution guidelines?',
+        default: "There are no contribution guidelines for this project",
     }
 ]);
 };
