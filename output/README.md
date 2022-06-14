@@ -22,4 +22,4 @@
   ## Tests
   There are no test instructions for this project
   ## Questions
-  If you have any questions about this projects, please contact me directly at selaprivette@yahoo.com. You can view more of my projects at https://github.com/undefined.
+  If you have any questions, please contact me directly at selaprivette@yahoo.com. You can view more of my projects at https://github.com/selaprivette.
