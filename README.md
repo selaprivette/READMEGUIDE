@@ -21,8 +21,10 @@ This program requires NPM installation of the inquirer and fs modules.
 This program is used by node with the command: node index.js
 This program outputs the file into the output subdirectory (folder)
 
+[Demo](./img/demo.png)
+
+
 ## Credits
 
 Sela Privette [Repository](https://github.com/selaprivette/READMEGUIDE)
-[Demo](./img/demo.png)
 
