@@ -1,25 +1,28 @@
-# read me
-  ![Github license](http://img.shields.io/badge/license-MIT-blue.svg)
-  
-  ## Description 
-  helps create a easy guide
-  ## Table of Contents
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [License](#license)
-  * [Contributing](#contributing)
-  * [Tests](#tests)
-  * [Questions](#questions)
-  
-  ## Installation 
-  There are no installation steps for this project
-  ## Usage 
-  node
-  ## License 
-  This project is license under MIT
-  ## Contributing 
-  There are no contribution guidelines for this project
-  ## Tests
-  There are no test instructions for this project
-  ## Questions
-  If you have any questions about this projects, please contact me directly at lsdfhlsdfs. You can view more of my projects at https://github.com/undefined.
+## Read Me Guide
+
+## Description
+
+The Read Me Guide is a user-friendly tool that generates a ReadMe document based on user input. This is automatically saved into the output folder and overwrites the README file here. This tool is generated using node index.js in the user terminal, which makes it that much easier to use. 
+
+## Table of Contents 
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+
+## Installation
+
+This program requires NPM installation of the inquirer and fs modules.
+
+
+## Usage
+
+This program is used by node with the command: node index.js
+This program outputs the file into the output subdirectory (folder)
+
+## Credits
+
+Sela Privette [Repository](https://github.com/selaprivette/READMEGUIDE)
+[Demo](./img/demo.png)
+

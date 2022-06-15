@@ -126,7 +126,7 @@ const questions = () => {
 
 // function to write README file using file system 
 const writeFile = data => {
-    fs.writeFile('README.md', data, err => {
+    fs.writeFile(' ./output/README.md', data, err => {
         // if there is an error 
         if (err) {
             console.log(err);
