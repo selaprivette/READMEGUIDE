@@ -8,7 +8,7 @@ The Read Me Guide is a user-friendly tool that generates a ReadMe document based
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
+- [Author](#credits)
 - [License](#license)
 
 ## Installation
@@ -23,8 +23,12 @@ This program outputs the file into the output subdirectory (folder)
 
 [Demo](./img/demo.png)
 
+ 
+ ## License
 
-## Credits
+  This project is licensed under Apache License 2.0.  Click the badge below view the license terms.
+
+## Author
 
 Sela Privette [Repository](https://github.com/selaprivette/READMEGUIDE)
 
